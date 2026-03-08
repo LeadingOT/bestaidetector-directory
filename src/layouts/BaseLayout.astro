@@ -72,9 +72,7 @@ const siteUrl = import.meta.env.SITE || 'https://example.com';
       })(window, document, "clarity", "script", "vp34qa3vrm");
     </script>
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  </head>
+    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
   <body class="bg-white text-gray-900 antialiased">
     <nav class="border-b border-gray-200 bg-white">
       <div class="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
