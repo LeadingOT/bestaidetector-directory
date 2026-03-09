@@ -1,0 +1,169 @@
+{
+  "listings": [
+    {
+      "name": "GPTZero",
+      "slug": "gptzero",
+      "description": "Industry-leading AI detection tool trusted by educators and organizations worldwide. Detects ChatGPT, GPT-4, Bard, and more.",
+      "url": "https://gptzero.me",
+      "pricing": "Free plan available, paid plans from $10/month",
+      "pricingType": "freemium",
+      "features": ["Document scanning", "Batch upload", "Chrome extension", "API access", "Detailed reports"],
+      "category": "Education",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Turnitin",
+      "slug": "turnitin",
+      "description": "Comprehensive academic integrity solution with AI writing detection integrated into originality checking.",
+      "url": "https://www.turnitin.com",
+      "pricing": "Enterprise pricing, contact for quote",
+      "pricingType": "paid",
+      "features": ["Academic integrity", "Plagiarism detection", "AI writing detection", "LMS integration", "Grading tools"],
+      "category": "Education",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Originality.AI",
+      "slug": "originality-ai",
+      "description": "Purpose-built for content publishers, detects AI content and plagiarism with high accuracy.",
+      "url": "https://originality.ai",
+      "pricing": "$14.95/month for 20,000 words",
+      "pricingType": "paid",
+      "features": ["AI detection", "Plagiarism check", "Readability score", "Team management", "API"],
+      "category": "Content",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Copyleaks",
+      "slug": "copyleaks",
+      "description": "Enterprise-grade AI content detector supporting 100+ languages with LMS integration.",
+      "url": "https://copyleaks.com",
+      "pricing": "Free trial, paid plans from $9.16/month",
+      "pricingType": "freemium",
+      "features": ["Multi-language support", "LMS integration", "API access", "Batch processing", "Reports"],
+      "category": "Enterprise",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Writer AI Detector",
+      "slug": "writer-detector",
+      "description": "Free AI content detector with no word limit, trained on billions of web pages.",
+      "url": "https://writer.com/ai-content-detector",
+      "pricing": "Free",
+      "pricingType": "free",
+      "features": ["Unlimited scans", "No signup required", "1,500 character limit per scan", "Human score percentage"],
+      "category": "Free Tools",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "ZeroGPT",
+      "slug": "zerogpt",
+      "description": "Advanced AI detector with high accuracy, supporting GPT-4, Gemini, and other models.",
+      "url": "https://www.zerogpt.com",
+      "pricing": "Free with limits, Pro from $9.99/month",
+      "pricingType": "freemium",
+      "features": ["Multi-model detection", "Detailed analysis", "Highlighted text", "API", "Batch upload"],
+      "category": "Content",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Content at Scale AI Detector",
+      "slug": "content-at-scale",
+      "description": "Free AI detector with predictability, probability, and pattern analysis.",
+      "url": "https://contentatscale.ai/ai-content-detector",
+      "pricing": "Free",
+      "pricingType": "free",
+      "features": ["3-factor analysis", "Unlimited checks", "Visual highlighting", "No signup"],
+      "category": "Free Tools",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Sapling AI Detector",
+      "slug": "sapling",
+      "description": "AI content detector for business and education with real-time detection.",
+      "url": "https://sapling.ai/ai-content-detector",
+      "pricing": "Free basic, Enterprise custom",
+      "pricingType": "freemium",
+      "features": ["Real-time detection", "Chrome extension", "API", "Team collaboration"],
+      "category": "Business",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Crossplag AI Detector",
+      "slug": "crossplag",
+      "description": "Academic-focused AI detector with plagiarism checking capabilities.",
+      "url": "https://crossplag.com",
+      "pricing": "Free trial, paid from $9.99/month",
+      "pricingType": "freemium",
+      "features": ["AI detection", "Plagiarism check", "Citation check", "Detailed reports"],
+      "category": "Education",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "GPTKit",
+      "slug": "gptkit",
+      "description": "AI text detection tool with 6 AI-based techniques for high accuracy.",
+      "url": "https://gptkit.ai",
+      "pricing": "Free credits, then $12.90 for 500 credits",
+      "pricingType": "freemium",
+      "features": ["6-method detection", "Authenticity analysis", "Credit system", "Reports"],
+      "category": "Content",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "AI Detector Pro",
+      "slug": "ai-detector-pro",
+      "description": "Professional AI detection with support for multiple AI models.",
+      "url": "https://aidetectorpro.com",
+      "pricing": "Free with limits, Pro from $14.99/month",
+      "pricingType": "freemium",
+      "features": ["Multi-model detection", "Batch processing", "API access", "Detailed analytics"],
+      "category": "Professional",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Passed.AI",
+      "slug": "passed-ai",
+      "description": "AI detection tool with focus on academic integrity and undetectable AI.",
+      "url": "https://passed.ai",
+      "pricing": "Free trial, paid from $7.99/month",
+      "pricingType": "freemium",
+      "features": ["Academic focus", "Detection score", "Sentence analysis", "Chrome extension"],
+      "category": "Education",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Scribbr AI Detector",
+      "slug": "scribbr",
+      "description": "Free AI detector powered by Turnitin for students and educators.",
+      "url": "https://www.scribbr.com/ai-detector",
+      "pricing": "Free",
+      "pricingType": "free",
+      "features": ["Powered by Turnitin", "Unlimited checks", "Detailed breakdown", "No signup"],
+      "category": "Education",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Compilatio",
+      "slug": "compilatio",
+      "description": "European leader in plagiarism and AI detection for education.",
+      "url": "https://www.compilatio.net",
+      "pricing": "Enterprise pricing",
+      "pricingType": "paid",
+      "features": ["GDPR compliant", "Multi-language", "LMS integration", "AI detection"],
+      "category": "Enterprise",
+      "logo": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Hive Moderation",
+      "slug": "hive-moderation",
+      "description": "AI content moderation with AI-generated content detection capabilities.",
+      "url": "https://hivemoderation.com",
+      "pricing": "Custom pricing",
+      "pricingType": "paid",
+      "features": ["AI detection", "Content moderation", "API", "Real-time", "Visual content"],
+      "category": "Enterprise",
+      "logo": "https://via.placeholder.com/150"
+    }
+  ]
+}
