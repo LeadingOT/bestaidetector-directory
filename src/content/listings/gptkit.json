@@ -2,7 +2,7 @@
   "name": "GPTKit",
   "slug": "gptkit",
   "tagline": "6-method detection for high accuracy",
-  "category": "Content",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium",
     "startingPrice": "$12.90"

@@ -2,7 +2,7 @@
   "name": "Scribbr",
   "slug": "scribbr",
   "tagline": "Free AI detector powered by Turnitin",
-  "category": "Education",
+  "category": "Text Detection",
   "pricing": {
     "model": "free"
   },

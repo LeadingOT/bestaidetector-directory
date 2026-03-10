@@ -2,7 +2,7 @@
   "name": "Turnitin",
   "slug": "turnitin",
   "tagline": "Academic integrity with AI detection",
-  "category": "Education",
+  "category": "Text Detection",
   "pricing": {
     "model": "enterprise"
   },

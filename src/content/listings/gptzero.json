@@ -2,7 +2,7 @@
   "name": "GPTZero",
   "slug": "gptzero",
   "tagline": "Leading AI detector trusted by educators worldwide",
-  "category": "Education",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium",
     "startingPrice": "$10/mo"

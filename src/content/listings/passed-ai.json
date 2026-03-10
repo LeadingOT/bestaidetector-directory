@@ -2,7 +2,7 @@
   "name": "Passed.AI",
   "slug": "passed-ai",
   "tagline": "Academic focus with sentence analysis",
-  "category": "Education",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium",
     "startingPrice": "$7.99/mo"

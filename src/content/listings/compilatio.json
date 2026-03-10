@@ -2,7 +2,7 @@
   "name": "Compilatio",
   "slug": "compilatio",
   "tagline": "European leader in AI detection",
-  "category": "Enterprise",
+  "category": "Text Detection",
   "pricing": {
     "model": "enterprise"
   },

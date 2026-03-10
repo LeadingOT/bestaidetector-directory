@@ -2,7 +2,7 @@
   "name": "Writer",
   "slug": "writer-detector",
   "tagline": "Free AI detector with unlimited scans",
-  "category": "Free Tools",
+  "category": "Text Detection",
   "pricing": {
     "model": "free"
   },

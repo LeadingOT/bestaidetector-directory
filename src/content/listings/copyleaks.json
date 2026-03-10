@@ -2,7 +2,7 @@
   "name": "Copyleaks",
   "slug": "copyleaks",
   "tagline": "Enterprise AI detector supporting 100+ languages",
-  "category": "Enterprise",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium",
     "startingPrice": "$9.16/mo"

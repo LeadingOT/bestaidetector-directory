@@ -2,7 +2,7 @@
   "name": "Crossplag",
   "slug": "crossplag",
   "tagline": "Academic AI detector with plagiarism check",
-  "category": "Education",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium",
     "startingPrice": "$9.99/mo"

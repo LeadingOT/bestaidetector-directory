@@ -2,7 +2,7 @@
   "name": "Hive Moderation",
   "slug": "hive",
   "tagline": "AI detection for content moderation",
-  "category": "Enterprise",
+  "category": "Text Detection",
   "pricing": {
     "model": "enterprise"
   },

@@ -2,7 +2,7 @@
   "name": "Originality.AI",
   "slug": "originality-ai",
   "tagline": "AI detection for content publishers",
-  "category": "Content",
+  "category": "Text Detection",
   "pricing": {
     "model": "paid",
     "startingPrice": "$14.95/mo"

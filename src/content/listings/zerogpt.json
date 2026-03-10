@@ -2,7 +2,7 @@
   "name": "ZeroGPT",
   "slug": "zerogpt",
   "tagline": "Advanced AI detector with high accuracy",
-  "category": "Content",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium",
     "startingPrice": "$9.99/mo"

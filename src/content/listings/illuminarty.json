@@ -1,0 +1,25 @@
+{
+  "name": "Illuminarty",
+  "slug": "illuminarty",
+  "tagline": "Detect AI-generated images instantly",
+  "category": "Image Detection",
+  "description": "Free AI image detector that identifies AI-generated images from Midjourney, DALL-E, Stable Diffusion with visual heatmaps.",
+  "url": "https://illuminarty.ai",
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$9/mo"
+  },
+  "features": [
+    "Visual heatmaps",
+    "Multi-model detection",
+    "Browser extension",
+    "Batch upload"
+  ],
+  "rating": 4.3,
+  "tags": [
+    "Free",
+    "Visual",
+    "Browser Extension"
+  ],
+  "lastUpdated": "2026-03-10"
+}

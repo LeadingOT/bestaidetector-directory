@@ -2,7 +2,7 @@
   "name": "Sapling",
   "slug": "sapling",
   "tagline": "Real-time AI detection for teams",
-  "category": "Business",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium"
   },

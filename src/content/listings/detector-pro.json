@@ -2,7 +2,7 @@
   "name": "AI Detector Pro",
   "slug": "detector-pro",
   "tagline": "Professional multi-model AI detection",
-  "category": "Professional",
+  "category": "Text Detection",
   "pricing": {
     "model": "freemium",
     "startingPrice": "$14.99/mo"

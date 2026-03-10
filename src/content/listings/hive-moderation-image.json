@@ -1,0 +1,24 @@
+{
+  "name": "Hive Moderation",
+  "slug": "hive-moderation-image",
+  "tagline": "AI-powered image content moderation",
+  "category": "Image Detection",
+  "description": "Enterprise-grade AI image detection for synthetic media, deepfakes, and AI-generated images. Used by major platforms.",
+  "url": "https://hivemoderation.com",
+  "pricing": {
+    "model": "enterprise"
+  },
+  "features": [
+    "Deepfake detection",
+    "AI-generated image detection",
+    "Real-time API",
+    "99.9% uptime SLA"
+  ],
+  "rating": 4.7,
+  "tags": [
+    "Enterprise",
+    "API",
+    "Real-time"
+  ],
+  "lastUpdated": "2026-03-10"
+}

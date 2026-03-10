@@ -2,7 +2,7 @@
   "name": "Content at Scale",
   "slug": "content-at-scale",
   "tagline": "Free AI detector with 3-factor analysis",
-  "category": "Free Tools",
+  "category": "Text Detection",
   "pricing": {
     "model": "free"
   },

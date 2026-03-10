@@ -1,0 +1,25 @@
+{
+  "name": "Optic AI",
+  "slug": "optic-ai",
+  "tagline": "AI image authenticity verification",
+  "category": "Image Detection",
+  "description": "Verify image authenticity with AI detection for photoshop edits, deepfakes, and AI-generated content. Trusted by newsrooms.",
+  "url": "https://optic.xyz",
+  "pricing": {
+    "model": "paid",
+    "startingPrice": "$29/mo"
+  },
+  "features": [
+    "Edit detection",
+    "Source tracking",
+    "Metadata analysis",
+    "Forensic tools"
+  ],
+  "rating": 4.5,
+  "tags": [
+    "Professional",
+    "Forensics",
+    "Newsroom"
+  ],
+  "lastUpdated": "2026-03-10"
+}
