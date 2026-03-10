@@ -3,8 +3,22 @@
   "slug": "crossplag",
   "tagline": "Academic AI detector with plagiarism check",
   "category": "Education",
-  "pricing": {"model": "freemium", "startingPrice": "$9.99/mo"},
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$9.99/mo"
+  },
   "rating": 3.9,
-  "tags": ["Academic", "Plagiarism", "Citations"],
-  "website": "https://crossplag.com"
+  "tags": [
+    "Academic",
+    "Plagiarism",
+    "Citations"
+  ],
+  "description": "Academic AI detector with plagiarism check",
+  "url": "https://crossplag.com",
+  "features": [
+    "Academic support",
+    "Plagiarism support",
+    "Citations support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

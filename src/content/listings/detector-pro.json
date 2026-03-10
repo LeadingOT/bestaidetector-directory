@@ -3,8 +3,22 @@
   "slug": "detector-pro",
   "tagline": "Professional multi-model AI detection",
   "category": "Professional",
-  "pricing": {"model": "freemium", "startingPrice": "$14.99/mo"},
-  "rating": 4.0,
-  "tags": ["Professional", "Batch", "API"],
-  "website": "https://aidetectorpro.com"
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$14.99/mo"
+  },
+  "rating": 4,
+  "tags": [
+    "Professional",
+    "Batch",
+    "API"
+  ],
+  "description": "Professional multi-model AI detection",
+  "url": "https://aidetectorpro.com",
+  "features": [
+    "Professional support",
+    "Batch support",
+    "API support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

@@ -3,8 +3,22 @@
   "slug": "gptzero",
   "tagline": "Leading AI detector trusted by educators worldwide",
   "category": "Education",
-  "pricing": {"model": "freemium", "startingPrice": "$10/mo"},
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$10/mo"
+  },
   "rating": 4.5,
-  "tags": ["AI Detection", "Education", "Document Scanning"],
-  "website": "https://gptzero.me"
+  "tags": [
+    "AI Detection",
+    "Education",
+    "Document Scanning"
+  ],
+  "description": "Leading AI detector trusted by educators worldwide",
+  "url": "https://gptzero.me",
+  "features": [
+    "AI Detection support",
+    "Education support",
+    "Document Scanning support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

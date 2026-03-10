@@ -3,8 +3,21 @@
   "slug": "writer-detector",
   "tagline": "Free AI detector with unlimited scans",
   "category": "Free Tools",
-  "pricing": {"model": "free"},
+  "pricing": {
+    "model": "free"
+  },
   "rating": 4.1,
-  "tags": ["Free", "Unlimited", "No Signup"],
-  "website": "https://writer.com/ai-content-detector"
+  "tags": [
+    "Free",
+    "Unlimited",
+    "No Signup"
+  ],
+  "description": "Free AI detector with unlimited scans",
+  "url": "https://writer.com/ai-content-detector",
+  "features": [
+    "Free support",
+    "Unlimited support",
+    "No Signup support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

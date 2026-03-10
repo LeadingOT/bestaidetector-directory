@@ -3,8 +3,22 @@
   "slug": "passed-ai",
   "tagline": "Academic focus with sentence analysis",
   "category": "Education",
-  "pricing": {"model": "freemium", "startingPrice": "$7.99/mo"},
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$7.99/mo"
+  },
   "rating": 3.8,
-  "tags": ["Academic", "Sentence Analysis", "Chrome"],
-  "website": "https://passed.ai"
+  "tags": [
+    "Academic",
+    "Sentence Analysis",
+    "Chrome"
+  ],
+  "description": "Academic focus with sentence analysis",
+  "url": "https://passed.ai",
+  "features": [
+    "Academic support",
+    "Sentence Analysis support",
+    "Chrome support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

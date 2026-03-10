@@ -3,8 +3,21 @@
   "slug": "hive",
   "tagline": "AI detection for content moderation",
   "category": "Enterprise",
-  "pricing": {"model": "enterprise"},
-  "rating": 4.0,
-  "tags": ["Moderation", "Real-time", "Visual Content"],
-  "website": "https://hivemoderation.com"
+  "pricing": {
+    "model": "enterprise"
+  },
+  "rating": 4,
+  "tags": [
+    "Moderation",
+    "Real-time",
+    "Visual Content"
+  ],
+  "description": "AI detection for content moderation",
+  "url": "https://hivemoderation.com",
+  "features": [
+    "Moderation support",
+    "Real-time support",
+    "Visual Content support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

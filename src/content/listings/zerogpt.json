@@ -3,8 +3,22 @@
   "slug": "zerogpt",
   "tagline": "Advanced AI detector with high accuracy",
   "category": "Content",
-  "pricing": {"model": "freemium", "startingPrice": "$9.99/mo"},
-  "rating": 4.0,
-  "tags": ["Multi-model", "Batch Upload", "API"],
-  "website": "https://www.zerogpt.com"
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$9.99/mo"
+  },
+  "rating": 4,
+  "tags": [
+    "Multi-model",
+    "Batch Upload",
+    "API"
+  ],
+  "description": "Advanced AI detector with high accuracy",
+  "url": "https://www.zerogpt.com",
+  "features": [
+    "Multi-model support",
+    "Batch Upload support",
+    "API support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

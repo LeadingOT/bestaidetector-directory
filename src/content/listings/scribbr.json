@@ -3,8 +3,21 @@
   "slug": "scribbr",
   "tagline": "Free AI detector powered by Turnitin",
   "category": "Education",
-  "pricing": {"model": "free"},
+  "pricing": {
+    "model": "free"
+  },
   "rating": 4.3,
-  "tags": ["Free", "Turnitin", "Students"],
-  "website": "https://www.scribbr.com/ai-detector"
+  "tags": [
+    "Free",
+    "Turnitin",
+    "Students"
+  ],
+  "description": "Free AI detector powered by Turnitin",
+  "url": "https://www.scribbr.com/ai-detector",
+  "features": [
+    "Free support",
+    "Turnitin support",
+    "Students support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

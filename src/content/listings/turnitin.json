@@ -3,8 +3,21 @@
   "slug": "turnitin",
   "tagline": "Academic integrity with AI detection",
   "category": "Education",
-  "pricing": {"model": "enterprise"},
+  "pricing": {
+    "model": "enterprise"
+  },
   "rating": 4.3,
-  "tags": ["Academic", "Plagiarism", "AI Detection"],
-  "website": "https://www.turnitin.com"
+  "tags": [
+    "Academic",
+    "Plagiarism",
+    "AI Detection"
+  ],
+  "description": "Academic integrity with AI detection",
+  "url": "https://www.turnitin.com",
+  "features": [
+    "Academic support",
+    "Plagiarism support",
+    "AI Detection support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

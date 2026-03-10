@@ -3,8 +3,21 @@
   "slug": "compilatio",
   "tagline": "European leader in AI detection",
   "category": "Enterprise",
-  "pricing": {"model": "enterprise"},
+  "pricing": {
+    "model": "enterprise"
+  },
   "rating": 4.1,
-  "tags": ["GDPR", "Multilingual", "LMS"],
-  "website": "https://www.compilatio.net"
+  "tags": [
+    "GDPR",
+    "Multilingual",
+    "LMS"
+  ],
+  "description": "European leader in AI detection",
+  "url": "https://www.compilatio.net",
+  "features": [
+    "GDPR support",
+    "Multilingual support",
+    "LMS support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

@@ -3,8 +3,22 @@
   "slug": "originality-ai",
   "tagline": "AI detection for content publishers",
   "category": "Content",
-  "pricing": {"model": "paid", "startingPrice": "$14.95/mo"},
+  "pricing": {
+    "model": "paid",
+    "startingPrice": "$14.95/mo"
+  },
   "rating": 4.4,
-  "tags": ["Content", "Publishers", "AI Detection"],
-  "website": "https://originality.ai"
+  "tags": [
+    "Content",
+    "Publishers",
+    "AI Detection"
+  ],
+  "description": "AI detection for content publishers",
+  "url": "https://originality.ai",
+  "features": [
+    "Content support",
+    "Publishers support",
+    "AI Detection support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

@@ -3,8 +3,21 @@
   "slug": "sapling",
   "tagline": "Real-time AI detection for teams",
   "category": "Business",
-  "pricing": {"model": "freemium"},
-  "rating": 4.0,
-  "tags": ["Real-time", "Chrome Extension", "Teams"],
-  "website": "https://sapling.ai/ai-content-detector"
+  "pricing": {
+    "model": "freemium"
+  },
+  "rating": 4,
+  "tags": [
+    "Real-time",
+    "Chrome Extension",
+    "Teams"
+  ],
+  "description": "Real-time AI detection for teams",
+  "url": "https://sapling.ai/ai-content-detector",
+  "features": [
+    "Real-time support",
+    "Chrome Extension support",
+    "Teams support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

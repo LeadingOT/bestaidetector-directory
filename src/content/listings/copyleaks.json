@@ -3,8 +3,22 @@
   "slug": "copyleaks",
   "tagline": "Enterprise AI detector supporting 100+ languages",
   "category": "Enterprise",
-  "pricing": {"model": "freemium", "startingPrice": "$9.16/mo"},
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$9.16/mo"
+  },
   "rating": 4.2,
-  "tags": ["Multilingual", "Enterprise", "LMS"],
-  "website": "https://copyleaks.com"
+  "tags": [
+    "Multilingual",
+    "Enterprise",
+    "LMS"
+  ],
+  "description": "Enterprise AI detector supporting 100+ languages",
+  "url": "https://copyleaks.com",
+  "features": [
+    "Multilingual support",
+    "Enterprise support",
+    "LMS support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

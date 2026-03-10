@@ -3,8 +3,21 @@
   "slug": "content-at-scale",
   "tagline": "Free AI detector with 3-factor analysis",
   "category": "Free Tools",
-  "pricing": {"model": "free"},
+  "pricing": {
+    "model": "free"
+  },
   "rating": 4.2,
-  "tags": ["Free", "Visual Highlighting", "No Signup"],
-  "website": "https://contentatscale.ai/ai-content-detector"
+  "tags": [
+    "Free",
+    "Visual Highlighting",
+    "No Signup"
+  ],
+  "description": "Free AI detector with 3-factor analysis",
+  "url": "https://contentatscale.ai/ai-content-detector",
+  "features": [
+    "Free support",
+    "Visual Highlighting support",
+    "No Signup support"
+  ],
+  "lastUpdated": "2026-03-10"
 }

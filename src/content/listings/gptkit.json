@@ -3,8 +3,22 @@
   "slug": "gptkit",
   "tagline": "6-method detection for high accuracy",
   "category": "Content",
-  "pricing": {"model": "freemium", "startingPrice": "$12.90"},
+  "pricing": {
+    "model": "freemium",
+    "startingPrice": "$12.90"
+  },
   "rating": 4.1,
-  "tags": ["Multi-method", "Reports", "Credits"],
-  "website": "https://gptkit.ai"
+  "tags": [
+    "Multi-method",
+    "Reports",
+    "Credits"
+  ],
+  "description": "6-method detection for high accuracy",
+  "url": "https://gptkit.ai",
+  "features": [
+    "Multi-method support",
+    "Reports support",
+    "Credits support"
+  ],
+  "lastUpdated": "2026-03-10"
 }
