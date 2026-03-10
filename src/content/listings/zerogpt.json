@@ -1,0 +1,10 @@
+{
+  "name": "ZeroGPT",
+  "slug": "zerogpt",
+  "tagline": "Advanced AI detector with high accuracy",
+  "category": "Content",
+  "pricing": {"model": "freemium", "startingPrice": "$9.99/mo"},
+  "rating": 4.0,
+  "tags": ["Multi-model", "Batch Upload", "API"],
+  "website": "https://www.zerogpt.com"
+}

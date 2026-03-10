@@ -1,0 +1,10 @@
+{
+  "name": "Writer",
+  "slug": "writer-detector",
+  "tagline": "Free AI detector with unlimited scans",
+  "category": "Free Tools",
+  "pricing": {"model": "free"},
+  "rating": 4.1,
+  "tags": ["Free", "Unlimited", "No Signup"],
+  "website": "https://writer.com/ai-content-detector"
+}

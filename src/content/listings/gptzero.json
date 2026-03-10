@@ -1,0 +1,10 @@
+{
+  "name": "GPTZero",
+  "slug": "gptzero",
+  "tagline": "Leading AI detector trusted by educators worldwide",
+  "category": "Education",
+  "pricing": {"model": "freemium", "startingPrice": "$10/mo"},
+  "rating": 4.5,
+  "tags": ["AI Detection", "Education", "Document Scanning"],
+  "website": "https://gptzero.me"
+}

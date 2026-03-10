@@ -1,0 +1,10 @@
+{
+  "name": "Passed.AI",
+  "slug": "passed-ai",
+  "tagline": "Academic focus with sentence analysis",
+  "category": "Education",
+  "pricing": {"model": "freemium", "startingPrice": "$7.99/mo"},
+  "rating": 3.8,
+  "tags": ["Academic", "Sentence Analysis", "Chrome"],
+  "website": "https://passed.ai"
+}

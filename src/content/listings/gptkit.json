@@ -1,0 +1,10 @@
+{
+  "name": "GPTKit",
+  "slug": "gptkit",
+  "tagline": "6-method detection for high accuracy",
+  "category": "Content",
+  "pricing": {"model": "freemium", "startingPrice": "$12.90"},
+  "rating": 4.1,
+  "tags": ["Multi-method", "Reports", "Credits"],
+  "website": "https://gptkit.ai"
+}

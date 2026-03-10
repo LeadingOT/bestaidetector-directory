@@ -1,0 +1,10 @@
+{
+  "name": "Originality.AI",
+  "slug": "originality-ai",
+  "tagline": "AI detection for content publishers",
+  "category": "Content",
+  "pricing": {"model": "paid", "startingPrice": "$14.95/mo"},
+  "rating": 4.4,
+  "tags": ["Content", "Publishers", "AI Detection"],
+  "website": "https://originality.ai"
+}

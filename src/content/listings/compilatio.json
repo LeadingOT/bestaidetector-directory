@@ -1,0 +1,10 @@
+{
+  "name": "Compilatio",
+  "slug": "compilatio",
+  "tagline": "European leader in AI detection",
+  "category": "Enterprise",
+  "pricing": {"model": "enterprise"},
+  "rating": 4.1,
+  "tags": ["GDPR", "Multilingual", "LMS"],
+  "website": "https://www.compilatio.net"
+}

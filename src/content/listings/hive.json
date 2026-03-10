@@ -1,0 +1,10 @@
+{
+  "name": "Hive Moderation",
+  "slug": "hive",
+  "tagline": "AI detection for content moderation",
+  "category": "Enterprise",
+  "pricing": {"model": "enterprise"},
+  "rating": 4.0,
+  "tags": ["Moderation", "Real-time", "Visual Content"],
+  "website": "https://hivemoderation.com"
+}
