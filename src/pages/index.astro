@@ -1,4 +1,5 @@
 ---
+import FAQ from '../components/FAQ.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ListingCard from '../components/ListingCard.astro';
 import { getCollection } from 'astro:content';
@@ -18,12 +19,21 @@ const schema = {
   description: 'Compare the best AI detection tools for text, images, and videos',
   url: Astro.url.origin,
 };
+
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Best AI Detector Tools 2026",
+  "description": "Compare and review the top 18 tools in this category",
+  "numberOfItems": 18,
+  "url": "https://bestaidetector.tools"
+};
 ---
 
 <BaseLayout
   title="Best AI Detector Tools (2026) - Detect AI-Generated Content"
   description="Compare the best AI detection tools for text, images, and videos. Trusted by educators and content teams. Free trials available."
-  schema={schema}
+  schema={itemListSchema}
 >
   <!-- Hero -->
   <section class="text-center py-12">
@@ -47,4 +57,5 @@ const schema = {
       </div>
     </section>
   ))}
+  <FAQ />
 </BaseLayout>
