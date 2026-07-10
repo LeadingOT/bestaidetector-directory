@@ -8,7 +8,7 @@ const allListings = await getCollection('listings');
 const categories = ['Text Detection', 'Image Detection', 'Video Detection'];
 const groupedListings = categories.map(cat => ({
   name: cat,
-  slug: cat.toLowerCase().replace(/\s+/g, '-'),
+  slug: cat.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''),
   tools: allListings.filter(l => l.data.category === cat)
 }));
 
