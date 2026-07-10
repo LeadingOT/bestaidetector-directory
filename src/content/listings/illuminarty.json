@@ -7,7 +7,7 @@
   "url": "https://illuminarty.ai",
   "pricing": {
     "model": "freemium",
-    "startingPrice": "$9/mo"
+    "startingPrice": "$10/mo"
   },
   "features": [
     "Visual heatmaps",
@@ -23,5 +23,8 @@
   ],
   "lastUpdated": "2026-03-10",
   "seoTitle": "Illuminarty: Unmask AI Images in 2026 | Expert Insights",
-  "seoDescription": "Discover how Illuminarty reveals AI-generated images instantly. Learn its unique features and advantages. Try it today!"
+  "seoDescription": "Discover how Illuminarty reveals AI-generated images instantly. Learn its unique features and advantages. Try it today!",
+  "verifiedAt": "2026-07-10",
+  "verifyMethod": "web-verify-2026-07 (official site check + published pricing)",
+  "verifyEvidence": "https://illuminarty.ai/en/"
 }

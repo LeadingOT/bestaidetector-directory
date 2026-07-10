@@ -4,8 +4,7 @@
   "tagline": "Academic AI detector with plagiarism check",
   "category": "Text Detection",
   "pricing": {
-    "model": "freemium",
-    "startingPrice": "$9.99/mo"
+    "model": "freemium"
   },
   "rating": 3.9,
   "tags": [
@@ -14,7 +13,7 @@
     "Citations"
   ],
   "description": "Academic AI detector with plagiarism check",
-  "url": "https://crossplag.com",
+  "url": "https://www.inspera.com",
   "features": [
     "Academic support",
     "Plagiarism support",
@@ -22,5 +21,8 @@
   ],
   "lastUpdated": "2026-03-10",
   "seoTitle": "Crossplag: The Ultimate AI Plagiarism Checker 2026",
-  "seoDescription": "Discover how Crossplag transforms academic integrity. Elevate your writing today! Explore its unique features now."
+  "seoDescription": "Discover how Crossplag transforms academic integrity. Elevate your writing today! Explore its unique features now.",
+  "verifiedAt": "2026-07-10",
+  "verifyMethod": "web-verify-2026-07 (official site check + published pricing)",
+  "verifyEvidence": "https://crossplag.com"
 }

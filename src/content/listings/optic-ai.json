@@ -4,10 +4,10 @@
   "tagline": "AI image authenticity verification",
   "category": "Image Detection",
   "description": "Verify image authenticity with AI detection for photoshop edits, deepfakes, and AI-generated content. Trusted by newsrooms.",
-  "url": "https://optic.xyz",
+  "url": "https://www.aiornot.com",
   "pricing": {
-    "model": "paid",
-    "startingPrice": "$29/mo"
+    "model": "freemium",
+    "startingPrice": "$5/mo"
   },
   "features": [
     "Edit detection",
@@ -23,5 +23,8 @@
   ],
   "lastUpdated": "2026-03-10",
   "seoTitle": "Optic AI: Mastering Image Authenticity in 2026 | Must-Read Insights",
-  "seoDescription": "Unlock the truth behind images with Optic AI. Discover how it verifies authenticity and elevate your content. Find out more!"
+  "seoDescription": "Unlock the truth behind images with Optic AI. Discover how it verifies authenticity and elevate your content. Find out more!",
+  "verifiedAt": "2026-07-10",
+  "verifyMethod": "web-verify-2026-07 (official site check + published pricing)",
+  "verifyEvidence": "https://www.aiornot.com/pricing"
 }

@@ -4,8 +4,8 @@
   "tagline": "Academic focus with sentence analysis",
   "category": "Text Detection",
   "pricing": {
-    "model": "freemium",
-    "startingPrice": "$7.99/mo"
+    "model": "paid",
+    "startingPrice": "$9.99/mo"
   },
   "rating": 3.8,
   "tags": [
@@ -22,5 +22,8 @@
   ],
   "lastUpdated": "2026-03-10",
   "seoTitle": "Passed.AI: Your Ultimate Academic Tool for 2026?",
-  "seoDescription": "Unlock superior sentence analysis for scholarly work. Explore Passed.AI’s features and see if it’s right for you!"
+  "seoDescription": "Unlock superior sentence analysis for scholarly work. Explore Passed.AI’s features and see if it’s right for you!",
+  "verifiedAt": "2026-07-10",
+  "verifyMethod": "web-verify-2026-07 (official site check + published pricing)",
+  "verifyEvidence": "https://passed.ai/pricing/"
 }

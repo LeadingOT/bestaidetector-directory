@@ -4,8 +4,7 @@
   "tagline": "6-method detection for high accuracy",
   "category": "Text Detection",
   "pricing": {
-    "model": "freemium",
-    "startingPrice": "$12.90"
+    "model": "freemium"
   },
   "rating": 4.1,
   "tags": [
@@ -22,5 +21,8 @@
   ],
   "lastUpdated": "2026-03-10",
   "seoTitle": "GPTKit: The AI Detection Game-Changer of 2026!",
-  "seoDescription": "Unlock precise AI detection with GPTKit. Discover how it stands out and what users are raving about! Try it today for accuracy like never before."
+  "seoDescription": "Unlock precise AI detection with GPTKit. Discover how it stands out and what users are raving about! Try it today for accuracy like never before.",
+  "verifiedAt": "2026-07-10",
+  "verifyMethod": "web-verify-2026-07 (official site check + published pricing)",
+  "verifyEvidence": "https://gptkit.ai"
 }
